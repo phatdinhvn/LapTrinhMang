@@ -21,6 +21,7 @@ namespace Bai_2
                 Console.WriteLine(ip);
             }
             Console.ReadLine();
+            //update
         }
     }
 }
